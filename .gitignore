@@ -1,0 +1,4 @@
+.idea
+config_file.py
+*.csv
+*.zip
